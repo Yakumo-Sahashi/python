@@ -1,0 +1,1443 @@
+04:57:36 PM: DEBUG [logger_base.py:18] mensaje a nivel debug
+04:57:36 PM: INFO [logger_base.py:19] mensaje a nivel info
+04:57:36 PM: WARNING [logger_base.py:20] mensaje a nivel warning
+04:57:36 PM: ERROR [logger_base.py:21] mensaje a nivel error
+04:57:36 PM: CRITICAL [logger_base.py:22] mensaje a nivel critical
+05:11:21 PM: DEBUG [Persona.py:50] 
+            ID persona: 1, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:12:12 PM: DEBUG [Persona.py:50] 
+            ID persona: 1, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:13:25 PM: DEBUG [Persona.py:50] 
+            ID persona: 1, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:13:55 PM: DEBUG [Persona.py:50] 
+            ID persona: 1, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:14:24 PM: DEBUG [Persona.py:50] 
+            ID persona: 1, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:14:24 PM: DEBUG [Persona.py:53] 
+            ID persona: None, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:15:09 PM: DEBUG [Persona.py:50] 
+            ID persona: 1, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:15:09 PM: DEBUG [Persona.py:53] 
+            ID persona: None, nombre: Juan,
+            apellido: Perez, email: jperez@mail.com
+        
+05:15:09 PM: DEBUG [Persona.py:56] 
+            ID persona: 1, nombre: None,
+            apellido: None, email: None
+        
+05:34:56 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001D4F6EC8860>
+05:35:16 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000002C45F68C110>
+05:35:39 PM: DEBUG [Conexion.py:23] Ocurrio una excepcion al obtener la conexion: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+05:35:49 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001826807C110>
+05:36:03 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000002013C5FABA0>
+05:36:22 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x00000239FBA18860>
+05:36:22 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+05:49:36 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001DEA70E6810>
+05:49:36 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+05:51:29 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001D815BD6810>
+05:51:29 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+05:52:01 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001A5579F6810>
+05:52:01 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+05:53:43 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000002DACB3C6810>
+05:53:43 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+05:57:55 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x00000252112F6810>
+05:57:55 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:00:30 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x00000224485F6810>
+06:00:30 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:00:38 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x0000018BCE936810>
+06:00:38 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:30:00 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001AC9F126810>
+06:30:00 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:32:31 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x0000019FC44C6810>
+06:32:31 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:33:00 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x00000202914F6810>
+06:33:00 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:34:11 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x0000019E82AA8200>
+06:34:11 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:34:56 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001E7C7D46810>
+06:34:56 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:37:10 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x00000224747C6780>
+06:37:10 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:37:57 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000002103F9786E0>
+06:37:57 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:46:42 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x00000202A92C69F0>
+06:46:42 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:47:44 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001CCBC9B8200>
+06:47:44 PM: DEBUG [Conexion.py:33] Se abrio correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:48:39 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001DD33E78260>
+06:48:39 PM: ERROR [Conexion.py:36] Ocurrió una excepción al obtener el cursor: type object 'Conexion' has no attribute 'obtenerConexion'
+06:49:18 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x0000027F471BE1E0>
+06:49:18 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:50:48 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x0000020B01CCE1E0>
+06:50:48 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: MySQLCursor: (Nothing executed yet)
+06:54:36 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x0000024E61306810>
+06:54:36 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: MySQLCursor: (Nothing executed yet)
+07:00:02 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000002612B0568A0>
+07:00:02 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: MySQLCursor: (Nothing executed yet)
+07:01:02 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x000001F4F6DB68A0>
+07:01:02 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: MySQLCursor: (Nothing executed yet)
+07:01:21 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection.MySQLConnection object at 0x0000028BCFD06690>
+07:01:21 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: MySQLCursor: (Nothing executed yet)
+07:14:02 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001F005E533B0>
+07:14:02 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:14:02 PM: DEBUG [persona_dao.py:31] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+07:14:02 PM: DEBUG [persona_dao.py:31] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+07:14:02 PM: DEBUG [persona_dao.py:31] 
+            ID persona: 8, nombre: issei,
+            apellido: yagami, email: sahashi
+        
+07:21:27 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000026A36683EC0>
+07:22:28 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002A841FE3D70>
+07:22:57 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000018138283C20>
+07:26:35 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001738ABE3D70>
+07:26:35 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:26:35 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+07:26:35 PM: ERROR [Conexion.py:36] Ocurrió una excepción al obtener el cursor: MySQL Connection not available.
+07:28:15 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002AA3DB23CB0>
+07:28:15 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:28:15 PM: DEBUG [persona_dao.py:46] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+07:28:15 PM: DEBUG [persona_dao.py:46] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+07:28:15 PM: DEBUG [persona_dao.py:46] 
+            ID persona: 8, nombre: issei,
+            apellido: yagami, email: sahashi
+        
+07:28:36 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000012D35473D70>
+07:28:36 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:28:36 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+07:28:36 PM: ERROR [Conexion.py:36] Ocurrió una excepción al obtener el cursor: MySQL Connection not available.
+07:30:25 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000013E44FB3BF0>
+07:30:25 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:30:25 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:30:25 PM: DEBUG [persona_dao.py:41] Personas insertadas: 1
+07:31:43 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000028350693DA0>
+07:31:43 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:31:43 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:31:43 PM: ERROR [Conexion.py:36] Ocurrió una excepción al obtener el cursor: MySQL Connection not available.
+07:39:00 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000028E406C3D40>
+07:39:00 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:39:00 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:39:00 PM: ERROR [Conexion.py:36] Ocurrió una excepción al obtener el cursor: MySQL Connection not available.
+07:39:58 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001ED1B8A3D70>
+07:39:58 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:39:59 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:39:59 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+07:40:35 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001FD70363C80>
+07:40:35 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:41:09 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000263A04C3C20>
+07:41:09 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:41:09 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:41:09 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+07:41:33 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000248027A3C50>
+07:41:33 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:41:33 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+07:41:33 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+07:41:33 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 13, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:41:33 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 16, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:42:55 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002695A9C3C20>
+07:42:55 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:42:55 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:42:55 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+07:43:54 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001D2441C3BF0>
+07:43:54 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:44:05 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001AEFFA53DA0>
+07:44:05 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:44:05 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:44:05 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+07:44:46 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000023E09AE3BF0>
+07:44:46 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:44:47 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:44:47 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:49:08 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000018D29883DA0>
+07:49:08 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:49:08 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:49:08 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:50:14 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000252E40E3BC0>
+07:50:14 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:50:14 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:50:14 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+07:50:44 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000022B7A223BC0>
+07:50:44 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:50:44 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:50:44 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:51:30 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001B732373CB0>
+07:51:30 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:51:30 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:51:30 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:51:58 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001A937903F50>
+07:51:58 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:51:58 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:51:58 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:53:16 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000024A559E3E00>
+07:53:16 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:53:16 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:53:16 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+07:53:49 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000284E9103DD0>
+07:53:49 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:53:49 PM: DEBUG [persona_dao.py:37] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:53:49 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+07:55:08 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001C32AD18350>
+07:55:08 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:55:16 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001C09E863D70>
+07:55:16 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:55:16 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:55:16 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:55:16 PM: DEBUG [Conexion.py:39] Se abrió correctamente el cursor: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+07:59:40 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002F84A943DA0>
+07:59:40 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+07:59:40 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+07:59:40 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+07:59:40 PM: DEBUG [Conexion.py:39] El cursor esta actualmente abierto: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:00:41 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000017522683E60>
+08:00:41 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:00:41 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:00:41 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+08:00:41 PM: DEBUG [Conexion.py:39] El cursor esta actualmente abierto: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:02:07 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001FE07118530>
+08:02:07 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:02:19 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000022C9EC73D40>
+08:02:19 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:02:19 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:04:21 PM: DEBUG [Conexion.py:19] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000012745693CB0>
+08:04:21 PM: DEBUG [Conexion.py:30] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:04:21 PM: DEBUG [Conexion.py:19] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000012745563020>
+08:04:21 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:05:52 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002589A0583E0>
+08:05:52 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:06:20 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000014D5C428350>
+08:06:20 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:06:20 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: (Nothing executed yet)
+08:07:09 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020D88EE80B0>
+08:07:09 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:07:09 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:07:09 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+08:07:09 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:11:16 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001E999603DA0>
+08:11:16 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:11:16 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:11:16 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+08:13:26 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000018A30483C80>
+08:13:26 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:13:26 PM: DEBUG [persona_dao.py:37] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:13:26 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:14:38 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002CB9B873CB0>
+08:14:38 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:14:38 PM: DEBUG [persona_dao.py:38] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:14:38 PM: DEBUG [persona_dao.py:46] Personas insertadas: 1
+08:15:29 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001F2F6183D70>
+08:15:29 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:15:29 PM: DEBUG [persona_dao.py:38] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:15:29 PM: DEBUG [persona_dao.py:46] Personas insertadas: 1
+08:25:45 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000016AF8C2FCE0>
+08:25:45 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+08:25:45 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+08:25:45 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 35, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:25:45 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 36, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:25:45 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 37, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:26:10 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000021970A53EF0>
+08:26:10 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:26:10 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:26:10 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+08:29:28 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000247BE733E60>
+08:29:28 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:29:28 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:29:28 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+08:29:28 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:30:42 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000021268413FB0>
+08:30:42 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:30:43 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:30:43 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+08:39:48 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000241CFE83D40>
+08:39:48 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:39:48 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:39:48 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:40:21 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000028AD9E4FDA0>
+08:40:21 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:40:21 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:40:21 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:40:33 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020AAA24FE00>
+08:40:33 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:40:33 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:40:33 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:40:33 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:42:00 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000025EE93CFE60>
+08:42:00 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:42:01 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:42:01 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:42:01 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:42:01 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:43:02 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000021ECEBFFC50>
+08:43:02 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+08:43:02 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+08:43:02 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 41, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:43:02 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 42, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:43:02 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 43, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:43:02 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 44, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:43:36 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000286A051FB90>
+08:43:36 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:43:36 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+08:43:36 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+08:43:36 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 41, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:43:36 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 42, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:43:36 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 43, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:43:36 PM: DEBUG [persona_dao.py:48] 
+            ID persona: 44, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:52:37 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002088A203F20>
+08:52:37 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:52:37 PM: DEBUG [persona_dao.py:49] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+08:52:37 PM: DEBUG [persona_dao.py:49] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+08:52:37 PM: DEBUG [persona_dao.py:49] 
+            ID persona: 41, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:52:37 PM: DEBUG [persona_dao.py:49] 
+            ID persona: 42, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:52:37 PM: DEBUG [persona_dao.py:49] 
+            ID persona: 43, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:52:37 PM: DEBUG [persona_dao.py:49] 
+            ID persona: 44, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:53:08 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001EB570A3E00>
+08:53:08 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:53:08 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:53:08 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:53:08 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001EB56B560C0>
+08:53:08 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:55:04 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000205DCA53F80>
+08:55:04 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:55:04 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:55:04 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:55:04 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000205DACF9160>
+08:55:04 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:56:08 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001EF6C713D40>
+08:56:08 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:56:08 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:56:08 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+08:56:08 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+08:56:38 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001B53A54FB60>
+08:56:53 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000215BE04FC20>
+08:56:53 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000215BDB26C60>
+08:57:07 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000024EC85DFAD0>
+08:57:07 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000024EC80D6A20>
+08:57:07 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:57:51 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002360D8A4650>
+08:57:51 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:58:27 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000205D4BF38C0>
+08:58:27 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000205D4AC6A20>
+08:58:27 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:58:27 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: (Nothing executed yet)
+08:59:02 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001DD01AAFC50>
+08:59:02 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001DD015C6A20>
+08:59:02 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:59:50 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000016927343CE0>
+08:59:50 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+08:59:50 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+08:59:50 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+08:59:50 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:06:45 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001A0B0433D10>
+09:06:45 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:06:46 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:06:46 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+09:06:46 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:12:24 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020F87763DA0>
+09:12:24 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:12:24 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:12:24 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+09:12:24 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:13:04 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001DCEB353E30>
+09:13:04 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:13:04 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:13:04 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+09:13:04 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:13:55 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000220B1D13C20>
+09:13:55 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:13:55 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:13:55 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+09:13:55 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:14:10 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002764D333CE0>
+09:14:10 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:14:10 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:14:10 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+09:14:10 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:19:29 PM: DEBUG [Conexion.py:23] Ocurrio una excepcion al obtener la conexion: Connection.__init__() got an unexpected keyword argument 'raise_on_warnings'
+09:19:52 PM: DEBUG [Conexion.py:23] Ocurrio una excepcion al obtener la conexion: Connection.__init__() takes 1 positional argument but 2 were given
+09:21:48 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x000002D28BA31850>
+09:21:48 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000002D28BAFF830>
+09:22:09 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x00000123FD0EE510>
+09:22:09 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000123FB617830>
+09:22:09 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:22:09 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+09:22:09 PM: DEBUG [Conexion.py:40] El cursor esta abierto actualmente: <pymysql.cursors.Cursor object at 0x00000123FB617830>
+09:26:31 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x00000281A537E4B0>
+09:26:31 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000281A35D6A20>
+09:26:31 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:26:31 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+09:26:31 PM: DEBUG [Conexion.py:40] El cursor esta abierto actualmente: <pymysql.cursors.Cursor object at 0x00000281A35D6A20>
+09:26:31 PM: DEBUG [Conexion.py:40] El cursor esta abierto actualmente: <pymysql.cursors.Cursor object at 0x00000281A35D6A20>
+09:27:27 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x000001D432433260>
+09:27:27 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001D4322273E0>
+09:27:27 PM: DEBUG [persona_dao.py:47] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+09:27:27 PM: DEBUG [persona_dao.py:47] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+09:27:27 PM: DEBUG [persona_dao.py:47] 
+            ID persona: 54, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:27:27 PM: DEBUG [persona_dao.py:47] 
+            ID persona: 55, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:27:58 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x0000028CDAAF2AE0>
+09:27:58 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000028CD902E630>
+09:27:58 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+09:27:58 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+09:27:58 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 54, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:27:58 PM: DEBUG [persona_dao.py:42] 
+            ID persona: 55, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:27:58 PM: DEBUG [Conexion.py:40] El cursor esta abierto actualmente: <pymysql.cursors.Cursor object at 0x0000028CD902E630>
+09:29:27 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x000001BC5FA6F4D0>
+09:29:27 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001BC5FA36840>
+09:29:27 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:29:27 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+09:29:27 PM: DEBUG [Conexion.py:40] El cursor esta abierto actualmente: <pymysql.cursors.Cursor object at 0x000001BC5FA36840>
+09:29:38 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x000001B83E262B40>
+09:29:38 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001B83C78E690>
+09:29:38 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:29:38 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+09:29:38 PM: DEBUG [Conexion.py:40] El cursor esta abierto actualmente: <pymysql.cursors.Cursor object at 0x000001B83C78E690>
+09:31:08 PM: DEBUG [Conexion.py:21] Conexion exitosa: <pymysql.connections.Connection object at 0x000001C1E6422B40>
+09:31:08 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001C1E49AFBF0>
+09:31:08 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:31:08 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+09:31:08 PM: DEBUG [Conexion.py:40] El cursor esta abierto actualmente: <pymysql.cursors.Cursor object at 0x000001C1E49AFBF0>
+09:32:07 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000011DFFF28050>
+09:32:07 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:32:07 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:32:07 PM: DEBUG [persona_dao.py:43] Personas insertadas: 1
+09:32:07 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:33:04 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002A6F23B3D70>
+09:33:04 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:33:04 PM: DEBUG [persona_dao.py:36] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:33:04 PM: DEBUG [persona_dao.py:44] Personas insertadas: 1
+09:33:04 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:34:48 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000024A853F3D70>
+09:34:48 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:34:48 PM: DEBUG [persona_dao.py:37] Persona insertada: 
+            ID persona: None, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:34:48 PM: DEBUG [persona_dao.py:45] Personas insertadas: 1
+09:34:48 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: INSERT INTO t_persona(nombre,apellido,em..
+09:43:01 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002207ADAFE60>
+09:43:01 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:43:01 PM: DEBUG [persona_dao.py:46] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+09:43:01 PM: DEBUG [persona_dao.py:46] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+09:43:01 PM: DEBUG [persona_dao.py:46] 
+            ID persona: 61, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:46:51 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001D49AD783B0>
+09:46:51 PM: DEBUG [persona_dao.py:55] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+09:46:51 PM: DEBUG [persona_dao.py:55] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+09:46:51 PM: DEBUG [persona_dao.py:55] 
+            ID persona: 61, nombre: sasuke,
+            apellido: uchiha, email: sasuke@mail.com
+        
+09:47:05 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001E5D5C68440>
+09:47:05 PM: DEBUG [persona_dao.py:59] Personas actualizadas: 1
+09:47:35 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000157B3DE83E0>
+09:47:35 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:47:35 PM: DEBUG [persona_dao.py:51] Personas insertadas: 1
+09:48:02 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001FB40658500>
+09:48:03 PM: DEBUG [persona_dao.py:59] Personas actualizadas: 1
+09:50:19 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000287355283E0>
+09:50:19 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:50:19 PM: DEBUG [persona_dao.py:55] Personas actualizadas: 1
+09:52:52 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000027A8CDA0950>
+09:52:52 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:54:39 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000025DF5C58710>
+09:54:39 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:55:21 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000221E0950860>
+09:55:21 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:57:51 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001F4A39C0230>
+09:57:51 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:58:25 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001BBBC9B0830>
+09:58:25 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:58:25 PM: DEBUG [persona_dao.py:67] Personas eliminadas: 1
+09:58:46 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002CF150A0770>
+09:58:46 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+09:58:46 PM: DEBUG [persona_dao.py:67] Personas eliminadas: 1
+10:01:58 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001962A3A0B60>
+10:01:58 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:01:58 PM: DEBUG [persona_dao.py:72] Personas eliminadas: 0
+10:03:03 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000016492CB0A70>
+10:03:03 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:03:03 PM: DEBUG [persona_dao.py:73] Personas eliminadas: 0
+10:03:43 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002372A550D70>
+10:03:43 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:03:43 PM: DEBUG [persona_dao.py:73] Personas eliminadas: 0
+10:04:15 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000249F1510C50>
+10:04:15 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:04:15 PM: DEBUG [persona_dao.py:74] Personas eliminadas: 0
+10:04:15 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: DELETE FROM t_persona WHERE id_persona =..
+10:07:57 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002A328B40DA0>
+10:07:57 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:07:57 PM: DEBUG [persona_dao.py:76] Personas eliminadas: 0
+10:07:57 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: DELETE FROM t_persona WHERE id_persona =..
+10:08:53 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000253CEE20D40>
+10:08:53 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:08:53 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: DELETE FROM t_persona WHERE id_persona =..
+10:08:53 PM: DEBUG [persona_dao.py:75] Personas eliminadas: 0
+10:08:53 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: DELETE FROM t_persona WHERE id_persona =..
+10:10:00 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000029917A6CE60>
+10:10:00 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:10:00 PM: DEBUG [persona_dao.py:75] Personas eliminadas: 0
+10:10:00 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: DELETE FROM t_persona WHERE id_persona =..
+10:11:11 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000189EB80CE60>
+10:11:11 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:11:11 PM: DEBUG [Conexion.py:46] Conexion cerrada: CMySQLCursor: DELETE FROM t_persona WHERE id_persona =.. <mysql.connector.connection_cext.CMySQLConnection object at 0x00000189EB80CE60>
+10:11:11 PM: DEBUG [persona_dao.py:75] Personas eliminadas: 0
+10:11:11 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: CMySQLCursor: DELETE FROM t_persona WHERE id_persona =..
+10:12:31 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000217B73F0DD0>
+10:12:31 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:12:31 PM: DEBUG [Conexion.py:46] Conexion cerrada: CMySQLCursor: (Nothing executed yet) <mysql.connector.connection_cext.CMySQLConnection object at 0x00000217B73F0DD0>
+10:17:46 PM: DEBUG [Conexion.py:46] Conexion cerrada: None None
+10:17:46 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001EE08DD80E0>
+10:17:46 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:17:46 PM: DEBUG [persona_dao.py:76] Personas eliminadas: 0
+10:17:46 PM: DEBUG [Conexion.py:46] Conexion cerrada: False None
+10:17:46 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001EE08B93980>
+10:17:46 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: False
+10:17:46 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+10:17:46 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+10:18:22 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001F085440E30>
+10:18:22 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:18:22 PM: DEBUG [persona_dao.py:68] Personas insertadas: 1
+10:18:22 PM: DEBUG [Conexion.py:46] Conexion cerrada: False None
+10:18:22 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001F08534C6E0>
+10:18:22 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: False
+10:18:22 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+10:18:22 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+10:18:22 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 63, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:21:03 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000010F45020E30>
+10:21:03 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:21:05 PM: DEBUG [persona_dao.py:68] Personas insertadas: 1
+10:21:05 PM: DEBUG [Conexion.py:46] Conexion cerrada: False None
+10:21:05 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000010F44F2C6E0>
+10:21:05 PM: DEBUG [Conexion.py:39] El cursor esta abierto actualmente: False
+10:21:05 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+10:21:05 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+10:21:05 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 63, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:21:05 PM: DEBUG [persona_dao.py:80] 
+            ID persona: 64, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:21:37 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001FB03250B30>
+10:21:37 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:21:37 PM: DEBUG [persona_dao.py:61] Personas insertadas: 1
+10:21:37 PM: DEBUG [Conexion.py:46] Conexion cerrada: False None
+10:21:37 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001FB03161B20>
+10:21:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+10:21:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+10:21:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 63, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:21:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 64, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:21:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 65, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:22:37 PM: DEBUG [Conexion.py:46] Conexion cerrada: None None
+10:22:37 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x00000280262BA3C0>
+10:22:37 PM: DEBUG [Conexion.py:33] Se abrió correctamente el cursor: CMySQLCursor: (Nothing executed yet)
+10:22:37 PM: DEBUG [persona_dao.py:69] Personas eliminadas: 1
+10:22:37 PM: DEBUG [Conexion.py:46] Conexion cerrada: False None
+10:22:37 PM: DEBUG [Conexion.py:20] Conexion exitosa: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002802629BE30>
+10:22:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+10:22:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+10:22:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 64, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:22:37 PM: DEBUG [persona_dao.py:73] 
+            ID persona: 65, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+10:45:17 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000002215BA7BF50>
+10:45:17 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002215D85B1D0>
+10:45:32 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001C4D99ABD10>
+10:45:32 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C4D9C6F560>
+10:45:48 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001D693692BD0>
+10:45:48 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001D6917441A0>
+10:50:54 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001ACB0D63980>
+10:50:54 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001ACAEE841A0>
+10:51:12 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000021EF5842BD0>
+10:51:12 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000021EF38D41A0>
+10:51:53 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001BE01A3BF50>
+10:51:53 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001BE037EB1D0>
+10:57:37 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001CD83E7BF80>
+10:57:37 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001CD83C341A0>
+11:11:41 PM: DEBUG [Conexion_dos.py:25] Error al obtener el pool: module 'pymysqlpool' has no attribute 'MySQLConnectionPool'
+11:12:52 PM: DEBUG [Conexion_dos.py:26] Error al obtener el pool: Connection.__init__() got an unexpected keyword argument 'raise_on_warnings'
+11:13:08 PM: DEBUG [Conexion_dos.py:26] Error al obtener el pool: port should be of type int
+11:14:06 PM: DEBUG [Conexion_dos.py:26] Error al obtener el pool: port should be of type int
+11:14:38 PM: DEBUG [Conexion_dos.py:26] Error al obtener el pool: port should be of type int
+11:16:45 PM: DEBUG [Conexion_dos.py:26] Error al obtener el pool: port should be of type int
+11:18:52 PM: DEBUG [Conexion_dos.py:26] Error al obtener el pool: port should be of type int
+11:19:26 PM: DEBUG [Conexion_dos.py:23] Creacion de pool exitosa: <pymysqlpool.ConnectionPool object at 0x000001F2BB40FD40>
+11:19:26 PM: DEBUG [Conexion_dos.py:32] conexion obtenida del pool: <pymysqlpool.ConnectionPool object at 0x000001F2BB40FD40>
+11:19:58 PM: DEBUG [Conexion_dos.py:23] Creacion de pool exitosa: <pymysqlpool.ConnectionPool object at 0x0000023C2EE9FA70>
+11:19:58 PM: DEBUG [Conexion_dos.py:32] conexion obtenida del pool: <pymysqlpool.Connection object at 0x0000023C2EE9FDD0>
+11:20:15 PM: DEBUG [Conexion_dos.py:23] Creacion de pool exitosa: <pymysqlpool.ConnectionPool object at 0x0000024B7062FF50>
+11:20:15 PM: DEBUG [Conexion_dos.py:32] conexion obtenida del pool: <pymysqlpool.Connection object at 0x0000024B7062FF20>
+11:21:46 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000002419BA6BF20>
+11:21:46 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002419DB73260>
+11:21:58 PM: DEBUG [Conexion_dos.py:22] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001B8D1433E00>
+11:21:58 PM: DEBUG [Conexion_dos.py:31] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B8D2D74C20>
+04:40:42 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000015C1790F950>
+04:40:42 PM: DEBUG [Conexion_dos.py:38] conexion obtenida del pool: <connection object at 0x0000015C195BD7A0; dsn: 'user=postgres password=xxx dbname=test host=localhost port=5432', closed: 0>
+04:40:49 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002150AFFF860>
+04:40:49 PM: DEBUG [Conexion_dos.py:38] conexion obtenida del pool: <connection object at 0x000002150CAAD7A0; dsn: 'user=postgres password=xxx dbname=test host=localhost port=5432', closed: 0>
+04:43:59 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000025D77220140>
+04:43:59 PM: DEBUG [Conexion_dos.py:37] conexion obtenida del pool: <connection object at 0x0000025D7722D7A0; dsn: 'user=postgres password=xxx dbname=test host=localhost port=5432', closed: 0>
+04:44:48 PM: DEBUG [Conexion_dos.py:28] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000171BEBE3C80>
+04:44:48 PM: DEBUG [Conexion_dos.py:36] conexion obtenida del pool: <connection object at 0x00000171C063D7A0; dsn: 'user=postgres password=xxx dbname=test host=localhost port=5432', closed: 0>
+04:44:48 PM: DEBUG [Conexion_dos.py:28] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000171BEBE3E00>
+04:44:48 PM: DEBUG [Conexion_dos.py:28] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000171BEBE3C80>
+04:44:48 PM: DEBUG [Conexion_dos.py:36] conexion obtenida del pool: <connection object at 0x00000171BEBA7230; dsn: 'user=postgres password=xxx dbname=test host=localhost port=5432', closed: 0>
+04:44:48 PM: DEBUG [Conexion_dos.py:28] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000171BEA76E40>
+04:45:38 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D4D699FF80>
+04:45:38 PM: DEBUG [Conexion_dos.py:39] conexion obtenida del pool: <connection object at 0x000001D4D845D7A0; dsn: 'user=postgres password=xxx dbname=test host=localhost port=5432', closed: 0>
+04:45:38 PM: DEBUG [Conexion_dos.py:39] conexion obtenida del pool: <connection object at 0x000001D4D845DAD0; dsn: 'user=postgres password=xxx dbname=test host=localhost port=5432', closed: 0>
+04:47:13 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001FAECE6FFE0>
+04:47:29 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000268FA0BFFE0>
+04:49:13 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000018EA4772A80>
+04:49:13 PM: DEBUG [Conexion_dos.py:39] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018EA275C320>
+04:49:13 PM: DEBUG [Conexion_dos.py:39] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018EA47C4260>
+04:50:13 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001B08847BDD0>
+04:50:13 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B08A1B80E0>
+04:50:13 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B08A2179B0>
+04:50:32 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000022D546ABCB0>
+04:50:32 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000022D54464DA0>
+04:50:32 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000022D564BD490>
+04:50:32 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000022D564BF5F0>
+04:50:32 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000022D564BF530>
+04:50:32 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000022D564BF6B0>
+04:50:42 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001E60CF22A80>
+04:50:42 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E60AC64DA0>
+04:50:42 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E60CFD6A20>
+04:50:42 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E60AF1C410>
+04:50:42 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E60AAAA3C0>
+04:50:42 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E60D03D6A0>
+04:51:17 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001ED83106810>
+04:51:17 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001ED8136F560>
+04:51:17 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001ED830B2C30>
+04:51:17 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001ED80BCA3C0>
+04:51:17 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001ED80E5D6A0>
+04:51:17 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001ED831DF6E0>
+04:51:28 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001B163866810>
+04:51:28 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B161ECF560>
+04:51:28 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B163812C30>
+04:51:28 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B16170A3C0>
+04:51:28 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B16199D6A0>
+04:51:28 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B163D3FA10>
+04:51:28 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001B163D3FAA0>
+05:00:23 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000229C105B6B0>
+05:00:23 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000229BEFCC830>
+05:00:23 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000229BEDEDBB0>
+05:00:23 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000229C1087980>
+05:00:23 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000229BEB3B890>
+05:00:23 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000229BEB5A3C0>
+05:08:07 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001E3E08AE0F0>
+05:08:07 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E3E2707830>
+05:08:07 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E3E065C830>
+05:08:07 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E3E2737980>
+05:08:07 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E3E016B890>
+05:08:07 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E3E018A3C0>
+05:08:07 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E3E018A3C0>
+05:08:07 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001E3E0632F60>
+05:23:54 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:23:54 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000219829AF440>
+05:23:54 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000021982979820>
+05:23:54 PM: DEBUG [cursor_pool.py:28] dentro del bloque with
+05:23:55 PM: DEBUG [cursor_pool.py:30] [(1, 'yakumo', 'saito', 'saito@mail.com'), (4, 'issei', 'yagami', 'sahashi@mail.com'), (64, 'sakura', 'uchiha', 'sakura@mail.com'), (65, 'sakura', 'uchiha', 'sakura@mail.com')]
+05:23:55 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:23:55 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:23:55 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000021982979820>
+05:30:48 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:30:48 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000250CF96F830>
+05:30:48 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000250CFAB49E0>
+05:30:48 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:30:48 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:30:48 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000250CFAB49E0>
+05:30:48 PM: DEBUG [persona_dao_dos.py:68] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+05:30:48 PM: DEBUG [persona_dao_dos.py:68] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+05:30:48 PM: DEBUG [persona_dao_dos.py:68] 
+            ID persona: 64, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:30:48 PM: DEBUG [persona_dao_dos.py:68] 
+            ID persona: 65, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:31:36 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:31:36 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000002A6FF1DF830>
+05:31:36 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A6FCE04200>
+05:31:36 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:31:36 PM: ERROR [cursor_pool.py:19] Ocurrio una excepcion: name 'Conexion' is not defined <class 'NameError'> <traceback object at 0x000002A6FCE36080>
+05:31:36 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A6FCE04200>
+05:32:17 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:32:17 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000029DD9DDD310>
+05:32:17 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000029DD9DDDD90>
+05:32:17 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:32:17 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:32:17 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000029DD9DDDD90>
+05:32:17 PM: DEBUG [persona_dao_dos.py:53] Personas insertadas: 1
+05:32:17 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:32:17 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000029DD9DDDD90>
+05:32:17 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:32:17 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:32:17 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000029DD9DDDD90>
+05:32:17 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+05:32:17 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+05:32:17 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 64, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:32:17 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 65, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:32:17 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 67, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:33:08 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:33:08 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000294CFF88590>
+05:33:08 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000294D0032CC0>
+05:33:08 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:33:08 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:33:08 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000294D0032CC0>
+05:33:08 PM: DEBUG [persona_dao_dos.py:61] Personas eliminadas: 1
+05:33:08 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:33:08 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000294CFCD1040>
+05:33:08 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:33:08 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:33:08 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000294CFCD1040>
+05:33:08 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+05:33:08 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+05:33:08 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 64, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:33:08 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 65, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:33:52 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:33:52 PM: DEBUG [Conexion_dos.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000002A2E08EEA20>
+05:33:52 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2E0912CC0>
+05:33:52 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:33:52 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:33:52 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2E0912CC0>
+05:33:52 PM: DEBUG [persona_dao_dos.py:57] Personas actualizadas: 1
+05:33:52 PM: DEBUG [cursor_pool.py:10] Inicio del metodo with __enter__
+05:33:52 PM: DEBUG [Conexion_dos.py:40] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2E0962480>
+05:33:52 PM: DEBUG [cursor_pool.py:16] se ejecuta metodo __exit__
+05:33:52 PM: DEBUG [cursor_pool.py:22] commit de la transaccion
+05:33:52 PM: DEBUG [Conexion_dos.py:46] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2E0962480>
+05:33:52 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 1, nombre: yakumo,
+            apellido: saito, email: saito@mail.com
+        
+05:33:52 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 4, nombre: issei,
+            apellido: yagami, email: sahashi@mail.com
+        
+05:33:52 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 64, nombre: Sasuke,
+            apellido: Uchiha, email: sasuke@mail.com.mx
+        
+05:33:52 PM: DEBUG [persona_dao_dos.py:65] 
+            ID persona: 65, nombre: sakura,
+            apellido: uchiha, email: sakura@mail.com
+        
+05:55:33 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001A5B39783E0>
+05:55:33 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001A5B3C1FCE0>
+05:55:33 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001A5B3C1FCE0>
+05:55:33 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001A5B5613B90>
+06:02:01 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:02:01 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000002F8DE986BA0>
+06:02:01 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002F8DE9CE990>
+06:02:01 PM: DEBUG [CursorPool.py:29] dentro del bloque with
+06:02:01 PM: DEBUG [CursorPool.py:31] []
+06:02:01 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:02:01 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:02:01 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002F8DE9CE990>
+06:18:47 PM: DEBUG [Usuario.py:42] 
+            Datos usuario:
+            ID: 1 usuario: yakumo
+            pass: 1234
+        
+06:20:12 PM: DEBUG [Usuario.py:41] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:20:18 PM: DEBUG [Usuario.py:41] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:20:18 PM: DEBUG [Usuario.py:44] 
+            ID usuario: None, usuario: issei,
+            pass: jpe
+        
+06:20:44 PM: DEBUG [Usuario.py:41] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:20:44 PM: DEBUG [Usuario.py:44] 
+            ID usuario: None, usuario: issei,
+            pass: jpe
+        
+06:20:44 PM: DEBUG [Usuario.py:47] 
+            ID usuario: 1, usuario: None,
+            pass: None
+        
+06:22:54 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:22:54 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000025197663860>
+06:22:54 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002519769A240>
+06:22:54 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:22:54 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:22:54 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002519769A240>
+06:24:12 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:24:12 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001FA38F9F830>
+06:24:12 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001FA38E91370>
+06:24:12 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:24:12 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:24:12 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001FA38E91370>
+06:24:12 PM: DEBUG [UsuarioDAO.py:48] Usuarios insertados: 1
+06:25:45 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:25:45 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000023B5D158E30>
+06:25:45 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000023B5D123FE0>
+06:25:45 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:25:45 PM: ERROR [CursorPool.py:20] Ocurrio una excepcion: name 'persona' is not defined <class 'NameError'> <traceback object at 0x0000023B5B388380>
+06:25:45 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000023B5D123FE0>
+06:26:20 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:26:20 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000021C3D1721B0>
+06:26:20 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000021C3B42F6E0>
+06:26:20 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:26:20 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:26:20 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000021C3B42F6E0>
+06:26:20 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:26:20 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 2, usuario: yakumo,
+            pass: 1234
+        
+06:27:37 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:27:38 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000155B3BDEA20>
+06:27:38 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000155B37F2CC0>
+06:27:38 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:27:38 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:27:38 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000155B37F2CC0>
+06:27:38 PM: DEBUG [UsuarioDAO.py:53] Usuarios actualizados: 1
+06:27:38 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:27:38 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000155B3BDF7D0>
+06:27:38 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:27:38 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:27:38 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000155B3BDF7D0>
+06:27:38 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:27:38 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:29:06 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:29:07 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001D8C9A71130>
+06:29:07 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001D8C9D6BBC0>
+06:29:07 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:29:07 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:29:07 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001D8C9D6BBC0>
+06:29:07 PM: DEBUG [UsuarioDAO.py:49] Usuarios insertados: 1
+06:29:07 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:29:07 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001D8C9D6BBC0>
+06:29:07 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:29:07 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:29:07 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001D8C9D6BBC0>
+06:29:07 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:29:07 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:29:07 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 3, usuario: yakumo,
+            pass: 1234
+        
+06:29:23 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:29:23 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000018EA498F830>
+06:29:23 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018EA6750350>
+06:29:23 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:29:23 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:29:23 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018EA6750350>
+06:29:23 PM: DEBUG [UsuarioDAO.py:57] Usuarios eliminadas: 1
+06:29:23 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:29:23 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018EA660EB40>
+06:29:23 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:29:23 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:29:23 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018EA660EB40>
+06:29:23 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:29:23 PM: DEBUG [UsuarioDAO.py:61] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:44:44 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:44:44 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001C709DA7170>
+06:44:44 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C103D40>
+06:44:44 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:44:44 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:44:44 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C103D40>
+06:44:44 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:44:44 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:45:05 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:45:05 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C228560>
+06:45:05 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:45:05 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:45:05 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C228560>
+06:45:10 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:45:10 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C2283B0>
+06:45:10 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:45:10 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:45:10 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C2283B0>
+06:45:10 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:45:10 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:45:10 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 4, usuario: sakura,
+            pass: 0520
+        
+06:45:29 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:45:29 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C228710>
+06:45:29 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:45:29 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:45:29 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C228710>
+06:45:34 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:45:34 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C2286E0>
+06:45:34 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:45:34 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:45:34 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C2286E0>
+06:45:34 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:45:34 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:45:34 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 4, usuario: sakura,
+            pass: 0520
+        
+06:45:34 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 5, usuario: prueba,
+            pass: pass
+        
+06:45:44 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:45:44 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C228860>
+06:45:44 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:45:44 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:45:44 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001C70C228860>
+06:46:18 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:46:18 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000020E5F0F7170>
+06:46:18 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E61562630>
+06:46:18 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:46:18 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:46:18 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E61562630>
+06:46:18 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:46:18 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:46:18 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 4, usuario: sakura,
+            pass: 0520
+        
+06:46:35 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:46:35 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E61578680>
+06:46:35 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:46:35 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:46:35 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E61578680>
+06:46:36 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:46:36 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E61578800>
+06:46:36 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:46:36 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:46:36 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E61578800>
+06:46:36 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:46:36 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:46:36 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 4, usuario: sakura,
+            pass: 0520
+        
+06:46:36 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 6, usuario: prueba,
+            pass: pass
+        
+06:47:00 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:47:00 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5EEEA540>
+06:47:01 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:47:01 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:47:01 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5EEEA540>
+06:47:02 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:47:02 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5F17FB00>
+06:47:02 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:47:02 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:47:02 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5F17FB00>
+06:47:02 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:47:02 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:47:02 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 4, usuario: sakura,
+            pass: 0520
+        
+06:47:02 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 6, usuario: haruka,
+            pass: 4321
+        
+06:47:17 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:47:17 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5F199160>
+06:47:17 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:47:17 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:47:17 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5F199160>
+06:47:20 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:47:20 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5F17FB00>
+06:47:20 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:47:20 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:47:20 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5F17FB00>
+06:47:20 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo,
+            pass: 1234
+        
+06:47:20 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke,
+            pass: Uchiha
+        
+06:47:20 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 4, usuario: sakura,
+            pass: 0520
+        
+06:47:20 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 6, usuario: haruka,
+            pass: 4321
+        
+06:47:20 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 7, usuario: prueba2,
+            pass: prueba3
+        
+06:47:27 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:47:27 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5EEEA540>
+06:47:27 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:47:27 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:47:27 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020E5EEEA540>
+06:47:41 PM: DEBUG [MenuAppUsuario.py:40] ---------------programa finalizado----------------
+06:50:43 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:50:43 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000026FD6E23620>
+06:50:43 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000026FD6DD3A40>
+06:50:43 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:50:43 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:50:43 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000026FD6DD3A40>
+06:50:43 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 1, usuario: yakumo, pass: 1234
+        
+06:50:43 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 2, usuario: sasuke, pass: Uchiha
+        
+06:50:43 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 4, usuario: sakura, pass: 0520
+        
+06:50:43 PM: DEBUG [MenuAppUsuario.py:19] 
+            ID usuario: 6, usuario: haruka, pass: 4321
+        
+06:50:50 PM: DEBUG [MenuAppUsuario.py:43] ---------------programa finalizado----------------
+06:51:19 PM: DEBUG [CursorPool.py:11] Inicio del metodo with __enter__
+06:51:19 PM: DEBUG [Conexion.py:21] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001812773DCA0>
+06:51:19 PM: DEBUG [Conexion.py:32] conexion obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018127C45700>
+06:51:19 PM: DEBUG [CursorPool.py:17] se ejecuta metodo __exit__
+06:51:19 PM: DEBUG [CursorPool.py:23] commit de la transaccion
+06:51:19 PM: DEBUG [Conexion.py:38] Regresamos la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018127C45700>
+06:51:19 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 1, usuario: yakumo, pass: 1234
+06:51:19 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 2, usuario: sasuke, pass: Uchiha
+06:51:19 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 4, usuario: sakura, pass: 0520
+06:51:19 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 6, usuario: haruka, pass: 4321
+06:52:46 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 1, usuario: yakumo, pass: 1234
+06:52:46 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 2, usuario: sasuke, pass: Uchiha
+06:52:46 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 4, usuario: sakura, pass: 0520
+06:52:46 PM: DEBUG [MenuAppUsuario.py:19] ID usuario: 6, usuario: haruka, pass: 4321
+06:53:22 PM: DEBUG [MenuAppUsuario.py:43] ---------------programa finalizado----------------
