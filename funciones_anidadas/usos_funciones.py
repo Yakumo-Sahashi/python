@@ -10,7 +10,7 @@ mi_funcion = sumar
 #llamamos la funcion mediante la variable a la cual se asigno
 print(mi_funcion(5,6))
 
-#2- funcion como argumento}
+#2- funcion como argumento
 
 def operacion(a,b,sumar_arg):
     print(f'Resultado suma: {sumar_arg(a,b)}')
